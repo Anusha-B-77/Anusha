@@ -1,8 +1,8 @@
 
 # Hey Everyone! I'm [Anusha](https://github.com/Anusha-B-77/Anusha) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-<br>
+
 <h3 align="center">I'm currently pursuing my B.Tech degree in Computer Science and Engineering</h3>
-<br>
+
 <h3><b><samp>Connect With me</samp></b></h3>
 <a href="https://www.linkedin.com/in/baki-anusha-anu9893927b/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
