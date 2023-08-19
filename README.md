@@ -1,6 +1,7 @@
 
-Hi Everyone!I'm # Anusha
+**Hi Everyone👋!I'm # Anusha**
 _______________________________________________________________________________________________________________________________________________________________________
+                                       I'm currently pursuing my '#0969DA` B.Tech degree in Computer Science and Engineering
+**Connect with me:**
+  
 
-Connect with me:
-![image](https://github.com/Anusha-B-77/Anusha/assets/132676793/b01f3640-58dd-4704-98e9-444500cc70c2#https://www.linkedin.com/in/baki-anusha-anu9893927b)
