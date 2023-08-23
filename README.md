@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/baki-anusha-anu9893927b/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/kiransagar1">
+<a href="https://github.com/Anusha-B-77">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
