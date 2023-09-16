@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm currently pursuing my B.Tech degree in Computer Science and Engineering</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anusha-B-77&label=Profile%20views&color=0e75b6&style=flat" alt="Anusha-B-77" /> </p>
+
 <div>
   <br>
   
